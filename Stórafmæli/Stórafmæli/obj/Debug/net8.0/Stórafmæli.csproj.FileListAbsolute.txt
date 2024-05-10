@@ -1,0 +1,14 @@
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.AssemblyInfoInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.AssemblyInfo.cs
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.csproj.CoreCompileInputs.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\bin\Debug\net8.0\Stórafmæli.exe
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\bin\Debug\net8.0\Stórafmæli.deps.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\bin\Debug\net8.0\Stórafmæli.runtimeconfig.json
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\bin\Debug\net8.0\Stórafmæli.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\bin\Debug\net8.0\Stórafmæli.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\refint\Stórafmæli.dll
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.pdb
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\Stórafmæli.genruntimeconfig.cache
+C:\Users\erikb\Desktop\Work\Code\VisualStudio\Kattis\Stórafmæli\Stórafmæli\obj\Debug\net8.0\ref\Stórafmæli.dll
